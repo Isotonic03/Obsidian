@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Ch 9 chatgpt"
             }
+          },
+          {
+            "id": "92d1ffe5bc62f8c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +209,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0617ece33c49aea",
+  "active": "92d1ffe5bc62f8c3",
   "lastOpenFiles": [
-    "Ch 9 chatgpt.md"
+    "Ch 9 chatgpt.md",
+    "Untitled.md"
   ]
 }
