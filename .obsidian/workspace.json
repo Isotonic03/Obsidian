@@ -35,8 +35,7 @@
               "title": "Ch9 claude"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "822017065e11c387",
@@ -195,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,9 +210,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49a9416e8af7ae5f",
+  "active": "d0617ece33c49aea",
   "lastOpenFiles": [
-    "Ch 9 chatgpt.md",
-    "Ch9 claude.md"
+    "Ch9 claude.md",
+    "Ch 9 chatgpt.md"
   ]
 }
