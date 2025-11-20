@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing.md",
+                "file": "Ch 9 chatgpt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing"
+              "title": "Ch 9 chatgpt"
             }
           }
         ]
@@ -196,6 +196,6 @@
   },
   "active": "d0617ece33c49aea",
   "lastOpenFiles": [
-    "Testing.md"
+    "Ch 9 chatgpt.md"
   ]
 }
