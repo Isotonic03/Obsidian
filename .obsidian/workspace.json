@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ch 9 chatgpt.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch 9 chatgpt"
+              "title": "README"
             }
           },
           {
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "822017065e11c387",
@@ -212,7 +211,9 @@
   },
   "active": "d0617ece33c49aea",
   "lastOpenFiles": [
+    "Applied ML",
     "Ch9 claude.md",
-    "Ch 9 chatgpt.md"
+    "Ch 9 chatgpt.md",
+    "README.md"
   ]
 }
