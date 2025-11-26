@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Applied ML/Final notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Final notes"
             }
           },
           {
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 210.5
   },
   "right": {
     "id": "822017065e11c387",
@@ -208,8 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a0228c4b9c3c0a3",
+  "active": "d0617ece33c49aea",
   "lastOpenFiles": [
+    "README.md",
+    "Applied ML/Final notes.md",
     "Applied ML/ML Project 2/Notes.md",
     "Applied ML/ML Project 2/Group.md",
     "Applied ML/ML Project 2",
@@ -227,7 +229,6 @@
     "Applied ML/Midterm notes",
     "Applied ML",
     "Ch9 claude.md",
-    "Ch 9 chatgpt.md",
-    "README.md"
+    "Ch 9 chatgpt.md"
   ]
 }
