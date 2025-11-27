@@ -81,7 +81,7 @@ Let's understand this carefully with **unit hypercubes** (cubes where each dimen
 
 The book and slides make a critical point:
 
-> "In practice, the number of training instances required to reach a given density grows **exponentially** with the number of dimensions."
+> "In practice, the number of training instances required to reach a given density grows **exponentially** with the number of dimensions." (Directly prpotional)
 
 **Concrete Example:**
 
