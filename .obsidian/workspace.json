@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Applied ML/Final notes.md",
+                "file": "Applied ML/Finals notes/Final notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -194,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,8 +211,9 @@
   },
   "active": "d0617ece33c49aea",
   "lastOpenFiles": [
+    "Applied ML/Finals notes",
     "README.md",
-    "Applied ML/Final notes.md",
+    "Applied ML/Finals notes/Final notes.md",
     "Applied ML/ML Project 2/Notes.md",
     "Applied ML/ML Project 2/Group.md",
     "Applied ML/ML Project 2",
