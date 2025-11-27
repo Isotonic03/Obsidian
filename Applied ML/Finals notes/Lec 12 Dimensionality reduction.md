@@ -162,6 +162,9 @@ This is a **famous toy dataset** mentioned explicitly in the book.
 
 This motivates **manifold learning** methods.
 
+----
+
+
 ---
 
 ## **Slide 13-16: Manifold Learning**
