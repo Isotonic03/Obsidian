@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE 2 ch 13.md",
+                "file": "SE2 group project/DTO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SE 2 ch 13"
+              "title": "DTO"
             }
           },
           {
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5,
-    "collapsed": true
+    "width": 210.5
   },
   "right": {
     "id": "822017065e11c387",
@@ -212,8 +211,11 @@
   },
   "active": "d0617ece33c49aea",
   "lastOpenFiles": [
-    "Applied ML/Finals notes/Lec 12 Dimensionality reduction.md",
+    "Ch9 claude.md",
+    "SE2 group project/DTO.md",
+    "SE2 group project",
     "SE 2 ch 13.md",
+    "Applied ML/Finals notes/Lec 12 Dimensionality reduction.md",
     "Applied ML/Finals notes",
     "README.md",
     "Applied ML/ML Project 2/Notes.md",
@@ -232,7 +234,6 @@
     "Applied ML/Midterm notes/Lec 10 - Decision trees.md",
     "Applied ML/Midterm notes",
     "Applied ML",
-    "Ch9 claude.md",
     "Ch 9 chatgpt.md"
   ]
 }
