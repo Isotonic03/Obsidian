@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing.md",
+                "file": "SE 2 ch 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing"
+              "title": "SE 2 ch 13"
             }
           }
         ]
@@ -155,7 +155,7 @@
         }
       },
       {
-        "id": "05c40cbf7a79bc11",
+        "id": "f9ef123666089f0d",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -180,5 +180,42 @@
     }
   },
   "active": "3160df528a97d4a1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "SE 2 ch 13.md",
+    "Testing.md",
+    "Ch 9 chatgpt.md",
+    "Ch9 claude.md",
+    "Applied ML/ML Project 2/Notes.md",
+    "Applied ML/ML Project 2/Group.md",
+    "Applied ML/Midterm notes/Lec 2.md",
+    "Applied ML/Midterm notes/Lec 3.md",
+    "Applied ML/Midterm notes/Lec 9 - SVM.md",
+    "Applied ML/Midterm notes/Lec 6 - Polynomial regression & regularization.md",
+    "Applied ML/Midterm notes/Lec 7 - Logistic regression.md",
+    "Applied ML/Midterm notes/Lec 5 - Linear regression.md",
+    "Applied ML/Midterm notes/Lec 10 - Decision trees.md",
+    "Applied ML/Midterm notes/Lec 4 - Classification.md",
+    "Applied ML/Midterm notes/Lec 8 - Softmax regression.md",
+    "Applied ML/ML Project 1/ML Project 1.md",
+    "Applied ML/Finals notes/Lec 12 Dimensionality reduction.md",
+    "Applied ML/ML Project 2",
+    "Applied ML/Midterm notes",
+    "Applied ML/ML Project 1",
+    "Applied ML/Finals notes",
+    "Applied ML",
+    "/Ch9 claude.md",
+    "/Ch 9 chatgpt.md",
+    "/Applied ML/Midterm notes/Lec 9 - SVM.md",
+    "/Applied ML/Midterm notes/Lec 8 - Softmax regression.md",
+    "/Applied ML/Midterm notes/Lec 7 - Logistic regression.md",
+    "/Applied ML/Midterm notes/Lec 6 - Polynomial regression & regularization.md",
+    "/Applied ML/Midterm notes/Lec 5 - Linear regression.md",
+    "/Applied ML/Midterm notes/Lec 4 - Classification.md",
+    "/Applied ML/Midterm notes/Lec 3.md",
+    "/Applied ML/Midterm notes",
+    "/Applied ML/ML Project 2",
+    "/Applied ML/ML Project 1",
+    "/Applied ML/Finals notes",
+    "/Applied ML"
+  ]
 }
